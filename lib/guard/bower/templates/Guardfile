@@ -1,0 +1,3 @@
+guard :bower do
+  watch('bower.json')
+end
